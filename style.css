@@ -7,5 +7,88 @@ body {
 }
 
 header {
+    margin: 10px;
+    padding: 20px;
+    height: 70px;
+    width: 900px;
+    color: #777;
+    text-align: center;
     background: #ebebeb;
+}
+
+nav {
+    margin: 10px;
+    padding: 20px;
+    height: 70px;
+    width: 900px;
+    color: #777;
+    text-align: center;
+    background: #ebebeb;
+}
+
+#middleID {
+    height: 500px;
+    width: 960px;
+
+}
+
+section {
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    height: 250px;
+    width: 495px;
+    color: #777;
+    text-align: center;
+    background-color: #ebebeb;
+}
+
+article {
+    margin: 10px;
+    padding: 20px;
+    height: 180px;
+    color: #ebebeb;
+    text-align: center;
+    background-color: #777;
+}
+
+h1 {
+    margin: 10px;
+    padding: 20px;
+    height: 20px;
+    color: #777;
+    font-size: 18px;
+    text-align: center;
+    background: #ebebeb;
+}
+
+#p1inarticle {
+    margin: 10px;
+    padding: 20px;
+    height: 20px;
+    color: #777;
+    font-size: 18px;
+    text-align: center;
+    background: #ebebeb;
+}
+
+aside {
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    height: 250px;
+    width: 340px;
+    color: #777;
+    text-align: center;
+    background-color: #ebebeb;
+}
+footer {
+    float: left;
+    margin: 10px;
+    padding: 20px;
+    height: 100px;
+    width: 960px;
+    color: #777;
+    text-align: center;
+    background-color: #ebebeb;
 }
